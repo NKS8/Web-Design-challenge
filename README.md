@@ -1,10 +1,11 @@
 # Web Design Challenge: Weather analysis of Latitude vs Temperature, Humidity, Cloudiness, and Windspeed.
 
-### This project builds website that has 7 html pages with CSS file for styling, visuals as images, and data set used for visualizations. 
+### This project builds website, and html, CSS, Bootstrap, and min.js ares used to create properly styled, responsive, and navigation activated website.  
 1. HTML
 2. CSS
 3. Bootstrap
-4. JQuery 
+4. JScript
+5. JQuery
 are used to make this website responsive, and navigatation is activated by JQuery, min.js, and bootstrap.min. 
 
 
@@ -30,3 +31,11 @@ are used to make this website responsive, and navigatation is activated by JQuer
 
 ### Page 7. (Data) 
 ![image](https://user-images.githubusercontent.com/67448948/127584630-ad9ca300-d1da-4d1e-9f13-aa3a6b11fcab.png)
+
+## Visualization and Responsiveness 
+
+When screen shrinks it stacks girds.
+a. ![image](https://user-images.githubusercontent.com/67448948/127585576-9ad965f1-1ed5-453c-abf4-a3277cf98ce0.png)
+b. ![image](https://user-images.githubusercontent.com/67448948/127585610-ee205c7e-6e68-428b-ae0b-ed589390b7c1.png)
+
+
