@@ -42,4 +42,11 @@ b.
 ![image](https://user-images.githubusercontent.com/67448948/127585610-ee205c7e-6e68-428b-ae0b-ed589390b7c1.png)
 
  Above schreenshots show the responiveness of website by stacking grid containers, and responsivess applies thoughout entire webpages. 
+c. 
+![image](https://user-images.githubusercontent.com/67448948/127586214-dcd36fd1-39c8-4403-acf9-ce48a14f4879.png)
+d. 
+![image](https://user-images.githubusercontent.com/67448948/127586274-52a15849-1beb-4bab-bb64-7184b44bc81d.png)
+
+
+
 
