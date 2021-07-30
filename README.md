@@ -1,11 +1,11 @@
 # Web Design Challenge: Weather analysis of Latitude vs Temperature, Humidity, Cloudiness, and Windspeed.
 
-This project builds website that has 7 html pages with 1 CSS files. 
+This project builds website that has 7 html pages with CSS file for styling, visuals as images, and data set used for visualizations. 
 1. HTML
-2.  CSS
-3.  Bootstrap
+2. CSS
+3. Bootstrap
 4. JQuery 
-are used to amke website responsive and navigations are actively linked to the proper pages. 
+are used to make this website responsive, and navigatation is activated by JQuery, min.js, and bootstrap.min. 
 
 
 ### Page 1. (Landing page)
