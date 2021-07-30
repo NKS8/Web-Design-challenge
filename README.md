@@ -1,6 +1,6 @@
 # Web Design Challenge: Weather analysis of Latitude vs Temperature, Humidity, Cloudiness, and Windspeed.
 
-This project builds website that has 7 html pages with CSS file for styling, visuals as images, and data set used for visualizations. 
+### This project builds website that has 7 html pages with CSS file for styling, visuals as images, and data set used for visualizations. 
 1. HTML
 2. CSS
 3. Bootstrap
