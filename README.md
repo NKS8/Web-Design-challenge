@@ -35,8 +35,11 @@ are used to make this website responsive, and navigatation is activated by JQuer
 ## Visualization and Responsiveness 
 
 When screen shrinks it stacks girds. Below schreen shots shows the responiveness, and responsivess applies thoughout entire webpages. 
-a. ![image](https://user-images.githubusercontent.com/67448948/127585576-9ad965f1-1ed5-453c-abf4-a3277cf98ce0.png)
-b. ![image](https://user-images.githubusercontent.com/67448948/127585610-ee205c7e-6e68-428b-ae0b-ed589390b7c1.png)
+
+a. 
+![image](https://user-images.githubusercontent.com/67448948/127585576-9ad965f1-1ed5-453c-abf4-a3277cf98ce0.png)
+b. 
+![image](https://user-images.githubusercontent.com/67448948/127585610-ee205c7e-6e68-428b-ae0b-ed589390b7c1.png)
 
  Above schreenshots show the responiveness of website by stacking grid containers, and responsivess applies thoughout entire webpages. 
 
