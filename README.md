@@ -45,6 +45,6 @@ c.
 d. 
 ![image](https://user-images.githubusercontent.com/67448948/127586274-52a15849-1beb-4bab-bb64-7184b44bc81d.png)
 
- Above schreenshots show the responiveness of website by stacking grid containers, and responsivess applies thoughout entire webpages. 
+ Above schreenshots show the responsiveness of website by stacking grid containers, and responsiveness applies thoughout entire webpages. 
 
 
